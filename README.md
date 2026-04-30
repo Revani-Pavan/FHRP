@@ -29,6 +29,9 @@ Status: Cisco Proprietary.
 How it works: Unlike the others, GLBP allows multiple routers to handle traffic simultaneously. It load-balances traffic across up to four routers using a single VIP but different Virtual MACs.
 
 How to Configure FHRP (Using your HSRP Lab Example)
+<img width="1447" height="1034" alt="image" src="https://github.com/user-attachments/assets/18932d46-b593-44a6-8f56-cdecbda44e24" />
+
+
 
 If you want to ensure your network stays online even if a router fails, follow these steps to set up HSRP (Cisco's version of FHRP).
 
